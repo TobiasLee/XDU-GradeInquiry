@@ -1,4 +1,6 @@
 # XDU 成绩查询
+
+
 ## 说明
 
 XDU 均分和 GPA 查询爬虫，不用评教也能查成绩算 GPA 啦~
@@ -41,4 +43,5 @@ XDU 均分和 GPA 查询爬虫，不用评教也能查成绩算 GPA 啦~
 
 更多帮助请使用 `python3 main.py -h` 查看
 
-
+## contributors
+TobiasLee，Ezio，Janck
